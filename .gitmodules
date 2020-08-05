@@ -1,0 +1,3 @@
+[submodule "projects/apps/QuixelMixerTilesetGenerator"]
+	path = projects/apps/QuixelMixerTilesetGenerator
+	url = https://github.com/Hugo54x/QuixelMixerTilesetGenerator.git

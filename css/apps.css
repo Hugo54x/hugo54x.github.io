@@ -1,0 +1,57 @@
+.bd-toc {
+  position: sticky;
+  top: 4rem;
+  height: calc(30vh - 4rem);
+  overflow-y: auto;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  font-size: .875rem;
+}
+
+.section-nav {
+  padding-right: 0;
+  border-right: 5px solid #eee;
+}
+
+.section-nav ul {
+  padding-left: 1rem;
+}
+
+.toc-entry {
+  display: block;
+}
+
+ .toc-entry a {
+   display: block;
+   padding: .125rem 1.5rem;
+   color: #99979c;
+ }
+
+a {
+  text-decoration: none;
+  background-color: transparent;
+}
+
+div {
+  pointer-events: auto;
+  display: block;
+}
+
+.anchorjs-link {
+  font-weight: 400;
+  color: rgba(0, 123, 255, 0.5);
+  transition: color -16s linear;
+  opacity: 0;
+  text-decoration: none;
+}
+
+.bd-lead {
+  font-size: 1.125rem;
+  font-weight: 300;
+}
+
+.bd-title {
+  margin-top: 1rem;
+  margin-bottom: .5rem;
+  font-weight: 300;
+}
